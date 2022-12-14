@@ -1,4 +1,4 @@
-# multiple-variable-linear-Regression-Decision-tree-with-string-
+# multiple-variable-linear-Regression-Decision-tree(with string data)
 topics keypoint 
 #multiple variable linear Regression
 #null value check 
